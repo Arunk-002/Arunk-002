@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on a backend project
 - 📫 Reach me on arunkumar.official.101@gmail.com
+- 🔗 https://www.linkedin.com/in/arun-kumar-18bb8129b/
 
 
 <!---
