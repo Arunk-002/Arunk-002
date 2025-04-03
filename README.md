@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Arunk-002
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on a backend project
+- 🌱 I’m currently expanding my knowledge base.
+- 💞️ I’m looking to collaborate on a FullStack projects
 - 📫 Reach me on arunkumar.official.101@gmail.com
 - 🔗 https://www.linkedin.com/in/arun-kumar-18bb8129b/
+- 🧑‍💻 https://portfolio-zeta-eight-45.vercel.app/
 
 
 <!---
